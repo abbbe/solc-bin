@@ -5011,6 +5011,16 @@
       "urls": [
         "bzzr://542f2e9f7e2f174ebab25c75deabe321e46ff03f31315cbb04ef8dbe1545e710"
       ]
+    },
+    {
+      "path": "soljson-v0.4.20-rwr.js",
+      "version": "0.4.20",
+      "prerelease": "rwr",
+      "longVersion": "0.4.20-rwr",
+      "keccak256": "0x684880e9b20d6e929a7086d4975f65fa024176b73f5e772b3df273bf0968dc99",
+      "urls": [
+        "bzzr://f7d5a5e65967a97d59fff33d7f8ae3afd9c9e9b5fe3c9d26ed2d6cf78b64f983"
+      ]
     }
   ],
   "releases": {
